@@ -3,7 +3,7 @@
     display: flex;
     width: 375px;
     height: 812px;
-    background: rgba(255,82,64,1);
+    background: rgb(255, 255, 255);
     opacity: 1;
     flex-direction: column;
     margin: auto;
@@ -44,17 +44,3 @@
     }
   }
 
-.title {
-  width: 227px;
-  color: rgba(255,255,255,1);
-  position: absolute;
-  top: 49px;
-  left: 221px;
-  font-family: Roboto;
-  font-weight: Regular;
-  font-size: 40px;
-  opacity: 1;
-  text-align: center;
-  margin: auto;
-  
-}
