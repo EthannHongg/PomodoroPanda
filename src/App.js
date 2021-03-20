@@ -49,14 +49,20 @@ function Home(props) {
       <PhoneUI {...phoneUIProps} />
       <div className="main">
 
-        <h1 className="rubik-normal-dove-gray-title">Customize</h1>
+        <h1 className="roboto-title-customize">Customize</h1>
         <div className="overlap-group2">
           <img className="panda" alt="" src={panda} />
         </div>
 
 
         <div className="itemBox">
-          <h1 style={{font: 'San'}}>Items</h1>
+          <div className="itemBoxTitle">
+            <h1 className="roboto-title-item">Items</h1>
+            <div className="roboto-title-money">{money}</div>
+            <img className="seashellpet" alt="" src={seashell} />
+
+
+          </div>
           <table>
             <tr>
               <td>
