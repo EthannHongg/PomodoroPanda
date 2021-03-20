@@ -465,3 +465,8 @@
   flex-direction: column;
   justify-content: center;
 }
+
+.cap {
+  width: 50px;
+  height: 50px;
+}

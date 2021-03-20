@@ -62,7 +62,7 @@ function Home(props) {
             <div className="roboto-title-money">{money}</div>
             <img className="seashellpet" alt="" src={seashell} />
 
-
+        
           </div>
           <table>
             <tr>
@@ -105,7 +105,7 @@ function Home(props) {
               </td>
               <td>
                 <div className="item">
-                  
+
                 </div>
               </td>
               <td>
