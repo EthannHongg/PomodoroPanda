@@ -63,7 +63,7 @@ function Home(props) {
       </div>
       <div className="menu">
         <div className="overlap-group3">
-          <a href="/">
+          <a href="/homescreen">
             <img className="home" alt="" src={home} />
             <div className="place-1 rubik-normal-dove-gray-8px">{place2}</div>
             <div className="rect3"></div>
@@ -89,7 +89,7 @@ function Home(props) {
         </a>
         </div>
         <div className="overlap-group4">
-        <a href="http://www.google.com/">
+        <a href="/customization">
           <div className="pets-icon">
             <div className="overlap-group-1">
               <img className="vector-2" alt="" src={vector3} />

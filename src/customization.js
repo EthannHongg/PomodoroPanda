@@ -182,16 +182,18 @@ function Home(props) {
 
       <div className="menu">
         <div className="overlap-group3">
-          <img className="home" alt="" src={home} />
-          <div className="place-1 rubik-normal-dove-gray-8px">{place2}</div>
-          <div className="rect3"></div>
+          <a href="/homescreen">
+            <img className="home" alt="" src={home} />
+            <div className="place-1 rubik-normal-dove-gray-8px">{place2}</div>
+            <div className="rect3"></div>
+          </a>
         </div>
         <div className="overlap-group6">
-        <a href="http://www.google.com/">
-          <img className="setting" alt="" src={setting} />
-          <div className="settings rubik-normal-dove-gray-8px">{settings}</div>
-          <div className="rect1"></div>
-        </a>
+          <a href="http://www.google.com/">
+            <img className="setting" alt="" src={setting} />
+            <div className="settings rubik-normal-dove-gray-8px">{settings}</div>
+            <div className="rect1"></div>
+          </a>
         </div>
         <div className="overlap-group7">
         <a href="http://www.google.com/">
@@ -206,7 +208,7 @@ function Home(props) {
         </a>
         </div>
         <div className="overlap-group4">
-        <a href="http://www.google.com/">
+        <a href="/">
           <div className="pets-icon">
             <div className="overlap-group-1">
               <img className="vector-2" alt="" src={vector3} />
@@ -222,7 +224,7 @@ function Home(props) {
         </a>
         </div>
         <div className="overlap-group5">
-        <a href="http://www.google.com/">
+        <a href="/achievements">
           <div className="achievements-icon">
             <div className="overlap-group-3">
               <img className="vector-8" alt="" src={vector9} />
