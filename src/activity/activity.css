@@ -1,0 +1,82 @@
+.activity-container {
+    width: 300px;
+    height: 160px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    margin: auto;
+    top: 326px;
+    left: 37px;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.container-title {
+    width: 169px;
+    color: rgba(0,0,0,1);
+    margin: auto;
+    top: 338px;
+    left: 103px;
+    font-family: Roboto;
+    font-weight: Light;
+    font-size: 21px;
+    opacity: 1;
+    text-align: left;
+}
+
+.button-wrap {
+    width: 100px;
+    height: 100px;
+    background: rgba(255,255,255,1);
+    opacity: 1;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.25);
+    overflow: hidden;
+}
+
+.button-left {
+    width: 64px;
+    height: 64px;
+    background: url("v49_261.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    margin: auto;
+    top: 8px;
+    left: 18px;
+    overflow: hidden;
+}
+
+.button-right {
+    width: 81px;
+    height: 81px;
+    background: url("v49_265.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    margin: auto;
+    top: 0px;
+    left: 10px;
+    overflow: hidden;
+}
+
+.action-text {
+    margin: auto;
+    color: rgb(255, 0, 0);
+    font-family: Roboto;
+    font-weight: Regular;
+    font-size: 64px;
+    opacity: 1;
+    text-align: center;
+}
