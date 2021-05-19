@@ -1,6 +1,7 @@
 # PomodoroPanda
-
-![alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fhelpx.adobe.com%2Fcontent%2Fdam%2Fhelp%2Fen%2Fphotoshop%2Fusing%2Fconvert-color-image-black-white%2Fjcr_content%2Fmain-pars%2Fbefore_and_after%2Fimage-before%2FLandscape-Color.jpg&imgrefurl=https%3A%2F%2Fhelpx.adobe.com%2Fphotoshop%2Fusing%2Fconvert-color-image-black-white.html&tbnid=2DNOEjVi-CBaYM&vet=12ahUKEwj79cqjvdTwAhWYhHIEHZgdApMQMygBegUIARDXAQ..i&docid=AOz9-XMe1ixZJM&w=1601&h=664&q=image&ved=2ahUKEwj79cqjvdTwAhWYhHIEHZgdApMQMygBegUIARDXAQ)
+An app developed to fascilitate the pomodoro method by gamifying the working experience through a cute animal character. The prototype is created using React, JavaScript, HTML, CSS to showcase the features that have the potential to improve the productivity, improve the mental and physical health of users.
+Developed at the Bolt Challenge by Ethan Hong (main page), Rishi Iyer, Gordon Cheung, and Ryan Zhao. A functional frontend demo recognized Google engineers at the competition and Waterloo local mental health professionals. 
+![](https://pasteboard.co/2b30665d-6878-47b3-918a-3b35e5df16a1)
 
 
 ## Getting Started with Create React App
