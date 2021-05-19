@@ -2,7 +2,8 @@
 An app developed to fascilitate the pomodoro method by gamifying the working experience through a cute animal character. The prototype is created using React, JavaScript, HTML, CSS to showcase the features that have the potential to improve the productivity, improve the mental and physical health of users.
 Developed at the Bolt Challenge by Ethan Hong (main page), Rishi Iyer, Gordon Cheung, and Ryan Zhao. A functional frontend demo recognized Google engineers at the competition and Waterloo local mental health professionals. 
 ![](homepage.png)
-
+![](timer.png)
+![](shop.png)
 
 ## Getting Started with Create React App
 
