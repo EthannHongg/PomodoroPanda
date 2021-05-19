@@ -1,7 +1,7 @@
 # PomodoroPanda
 An app developed to fascilitate the pomodoro method by gamifying the working experience through a cute animal character. The prototype is created using React, JavaScript, HTML, CSS to showcase the features that have the potential to improve the productivity, improve the mental and physical health of users.
 Developed at the Bolt Challenge by Ethan Hong (main page), Rishi Iyer, Gordon Cheung, and Ryan Zhao. A functional frontend demo recognized Google engineers at the competition and Waterloo local mental health professionals. 
-![pic](blob:https://pasteboard.co/2b30665d-6878-47b3-918a-3b35e5df16a1)
+![](homepage.png)
 
 
 ## Getting Started with Create React App
